@@ -2,6 +2,6 @@
 	path = com.havako.ui
 	url = git@github.com:TaQuangKhoi/com.havako.ui.git
 
-[submodule "bpm"]
+[submodule "com.havako.bpm"]
 	path = com.havako.bpm
 	url = git@github.com:TaQuangKhoi/com.havako.bpm.git
