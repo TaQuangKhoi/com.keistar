@@ -1,7 +1,7 @@
 [submodule "ui"]
-	path = com.havako.ui
+	path = com.keistar.ui
 	url = git@github.com:TaQuangKhoi/com.keistar.ui.git
 
 [submodule "bpm"]
-	path = com.havako.bpm
+	path = com.keistar.bpm
 	url = git@github.com:TaQuangKhoi/com.keistar.bpm.git
